@@ -1,5 +1,8 @@
 _repo: Erewhon--Or-Over-the-Range_1906
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Samuel
@@ -21,6 +24,8 @@ description: "Erewhon: or, Over the Range (e-re-whon) is a novel by Samuel Butle
   \ as a sheep farmer on Mesopotamia Station for about four years (1860–64), and explored\
   \ parts of the interior of the South Island and which he wrote about in his A First\
   \ Year in Canterbury Settlement (1863).\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1906#Erewhon--Or-Over-the-Range
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - New Zealand
